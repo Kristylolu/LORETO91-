@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Inemagu/Bot-Sis",
+  "homepage": "https://github.com/Kristylolu/LORETO91-",
   "author": {
     "name": "Sisked"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Inemagu/Bot-Sis.git"
+    "url": "git+https://github.com/Kristylolu/LORETO91-.git"
   },
   "bugs": {
-    "url": "https://github.com/Inemagu/Bot-Sis/issues"
+    "url": "https://github.com/Kristylolu/LORETO91-/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
